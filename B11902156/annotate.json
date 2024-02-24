@@ -1,0 +1,78 @@
+{
+  "video1.mp4": [
+    {
+      "start_frame": "58",
+      "end_frame": "90",
+      "action_type": "swipe down",
+      "down_coordinate": [44, 41],
+      "up_coordinate": [44, 59],
+      "type_word": null
+    },
+    {
+      "start_frame": "127",
+      "end_frame": "162",
+      "action_type": "swipe up",
+      "down_coordinate": [50, 36],
+      "up_coordinate": [50, 67],
+      "type_word": null
+    },
+    {
+      "start_frame": "217",
+      "end_frame": "169",
+      "action_type": "click",
+      "down_coordinate": [77, 6],
+      "up_coordinate": [77, 6],
+      "type_word": null
+    },
+    {
+      "start_frame": "224",
+      "end_frame": "304",
+      "action_type": "click",
+      "down_coordinate": [27, 92],
+      "up_coordinate": [27, 92],
+      "type_word": null
+    },
+    {
+      "start_frame": "286",
+      "end_frame": "297",
+      "action_type": "type",
+      "down_coordinate": null,
+      "up_coordinate": null,
+      "type_word": "type"
+    }
+  ],
+  "video2.mp4": [
+    {
+      "start_frame": "45",
+      "end_frame": "91",
+      "action_type": "swipe up",
+      "down_coordinate": [54, 19],
+      "up_coordinate": [54, 62],
+      "type_word": null
+    },
+    {
+      "start_frame": "130",
+      "end_frame": "177",
+      "action_type": "swipe down",
+      "down_coordinate": [56, 30],
+      "up_coordinate": [56, 98],
+      "type_word": null
+    },
+    {
+      "start_frame": "213",
+      "end_frame": "219",
+      "action_type": "click",
+      "down_coordinate": [6, 3],
+      "up_coordinate": [6, 3],
+      "type_word": null
+    },
+    {
+      "start_frame": "283",
+      "end_frame": "301",
+      "action_type": "type",
+      "down_coordinate": null,
+      "up_coordinate": null,
+      "type_word": "again"
+    }
+  ]
+}
